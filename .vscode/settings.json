@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/lib/jvm/java-15-openjdk/lib/jrt-fs.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.web.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.swing.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.media.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.graphics.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.fxml.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.controls.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx.base.jar",
+        "/lib/jvm/java-15-openjdk/lib/javafx-swt.jar"
+    ]
+}
